@@ -1,2 +1,2 @@
 # Git_OS
-- [Kinar] (https://github.com/Kinar-Usha)
+- [Kinar](https://github.com/Kinar-Usha)
